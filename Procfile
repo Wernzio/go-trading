@@ -1,1 +1,1 @@
-worker: long-short
+worker: mean-reversion
