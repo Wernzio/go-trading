@@ -1,1 +1,1 @@
-worker: go run examples/long-short/long-short.go
+worker: long-short
